@@ -3,7 +3,6 @@ Module 12 analyzes UK food establishments from a JSON file. After extraction, a 
 
 Rubric: 
 
-
 Before You Begin
 Create a new repository for this project called nosql-challenge. Do not add this homework to an existing repository.
 
